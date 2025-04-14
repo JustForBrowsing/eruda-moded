@@ -4,13 +4,14 @@
   </a>
 </div>
 
-<h1 align="center">Eruda</h1>
+<h1 align="center">Eruda (Experimental)</h1>
 
 <div align="center">
 
 Console for Mobile Browsers.
-<h3>THIS IS AN EXPERIMENTAL WORK IN PROGRESS.</h3>
-Use the origanal at [liriliri/eruda](https://github.com/liriliri/eruda).
+<h3 style="color:#F77;font-weight:bold;">THIS IS AN EXPERIMENTAL FORK!</h3>
+Use the origanal at [liriliri/eruda](https://github.com/liriliri/eruda) instead.
+<hr/>
 
 [![NPM version][npm-image]][npm-url]
 [![Build status][ci-image]][ci-url]
