@@ -9,6 +9,8 @@
 <div align="center">
 
 Console for Mobile Browsers.
+<h3>THIS IS AN EXPERIMENTAL WORK IN PROGRESS.</h3>
+Use the origanal at [liriliri/eruda](https://github.com/liriliri/eruda).
 
 [![NPM version][npm-image]][npm-url]
 [![Build status][ci-image]][ci-url]
